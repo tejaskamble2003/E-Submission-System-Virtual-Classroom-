@@ -2,7 +2,7 @@
 
 **Database Name: onlclassroom**
 
-**Developed by Vishal Mathur**
+**Developed by Tejas Kamble**
 
 **Recommended PHP Version 5.6 or Newer**
 
